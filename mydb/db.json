@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "sanjeethsinghthakur0090@gmail.com",
+      "username": "sanjeeth",
+      "phone": "8186992739",
+      "password": "12345",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "email": "nenavathnaresh460@gmail.com",
+      "username": "naresh",
+      "phone": "8184829256",
+      "password": "123",
+      "role": "campaigner"
+    },
+    {
+      "id": "3",
+      "email": "murari.t2001@gmail.com",
+      "username": "murari",
+      "phone": "9346074674",
+      "password": "123",
+      "role": "campaigner"
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "e174",
+      "title": "react.js",
+      "description": "We provide both online and offline classes with assured learning assistance.",
+      "imgURL": "https://edupoly.in/common/assets/React.jpg",
+      "link": "http://localhost:3000/addregistration",
+      "date": 1708026580312
+    },
+    {
+      "id": "a8b8",
+      "title": "angular",
+      "description": "We provide both online and offline classes with assured learning assistance.",
+      "imgURL": "https://edupoly.in/common/assets/Angular.jpg",
+      "link": "http://localhost:3000/addregistration",
+      "date": 1708026580312
+    },
+    {
+      "id": "9b24",
+      "title": "javascript",
+      "description": "We provide both online and offline classes with assured learning assistance.",
+      "imgURL": "https://edupoly.in/common/assets/Javascript.jpg",
+      "link": "http://localhost:3000/addregistration",
+      "date": 1708026580312
+    },
+    {
+      "id": "ea18",
+      "title": "python",
+      "description": "We provide both online and offline classes with assured learning assistance.",
+      "imgURL": "https://edupoly.in/common/assets/python_1.jpg",
+      "link": "http://localhost:3000/addregistration",
+      "date": 1708026580312
+    }
+  ],
+  "registrations": [
+    {
+      "id": "6036",
+      "campaigner": "naresh",
+      "title": "react.js",
+      "username": "suresh",
+      "phone": 9666554442,
+      "email": "suresh@gmail.com",
+      "date": "2024-02-16T16:44:31.179Z"
+    },
+    {
+      "id": "cdd3",
+      "campaigner": "naresh",
+      "title": "javascript",
+      "username": "munna",
+      "phone": 8186992739,
+      "email": "sanjeethsinghthakur@gmail.com",
+      "date": "2024-02-16T16:44:57.753Z"
+    },
+    {
+      "id": "edf9",
+      "campaigner": "naresh",
+      "title": "python",
+      "username": "abhi",
+      "phone": 7569232033,
+      "email": "sanjeethsinghthakur0090@gmail.com",
+      "date": "2024-02-16T16:45:33.982Z"
+    },
+    {
+      "id": "9325",
+      "campaigner": "murari",
+      "title": "javascript",
+      "username": "divya",
+      "phone": 8186992710,
+      "email": "divya.edupoly@gmail.com",
+      "date": "2024-02-16T18:06:58.404Z"
+    },
+    {
+      "id": "b73d",
+      "campaigner": "murari",
+      "title": "angular",
+      "username": "manasa",
+      "phone": 7146992739,
+      "email": "manasa.edupoly@gmail.com",
+      "date": "2024-02-16T18:07:48.475Z"
+    }
+  ]
+}
